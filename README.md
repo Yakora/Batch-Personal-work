@@ -1,3 +1,3 @@
-# My personal Batch examples
+# My personal Batch exercises
 
 sorry for my native language in the exercises
